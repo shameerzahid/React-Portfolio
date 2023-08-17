@@ -39,7 +39,7 @@ const Contact = () => {
             <BsLinkedin className='contact__option-icon' />
             <h4>LinkedIn</h4>
             <h5>Shameer Zahid</h5>
-            <a  href="https://www.facebook.com/profile.php?id=100010870507739" target="_blank">Send a Message</a>
+            <a  href="https://www.linkedin.com/in/shameer-zahid-940293247" target="_blank">Send a Message</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp  className='contact__option-icon'/>
